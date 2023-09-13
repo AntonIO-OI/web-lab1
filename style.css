@@ -16,6 +16,12 @@
 .title__outer {
   width: 30%;
   background-color: white;
+  border-radius: 10px;
+  padding: 0 10px;
+}
+
+.container {
+  padding: 20px 10px;
 }
 
 .header__title {
@@ -89,7 +95,7 @@
   justify-content: space-between;
   align-items: center;
 
-  padding: 0 30px;
+  padding: 10px 30px;
 }
 
 .footer__text {
@@ -97,11 +103,13 @@
 }
 
 .subtitle__outer {
-  width: 30%;
+  width: 35%;
 }
 
 .footer__subtitle {
   background-color: white;
+  border-radius: 10px;
+  padding: 0 10px;
   text-align: start;
 }
 
